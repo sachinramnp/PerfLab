@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PerfLab — CPU Performance & Memory Analyzer
 
 PerfLab is a C++ benchmarking project that compares matrix multiplication algorithms and measures their execution time.
@@ -50,3 +51,7 @@ Run the program:
 ## Author
 
 Sachin Ram N P
+=======
+# PerfLab
+A C++ benchmarking tool for comparing matrix multiplication performance and analyzing execution time.
+>>>>>>> f36cd3a4101fb660de0d61d2c8e4153f08912a18
